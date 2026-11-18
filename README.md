@@ -1,2 +1,2 @@
 # Master-thesis
-Contains all pythonscripts developed during the masterthesis
+Contains all python scripts developed during the masterthesis
